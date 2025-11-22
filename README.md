@@ -60,9 +60,4 @@
 
 ## 📫 Contact Me  
 - GitHub: **https://github.com/Areyaaa**  
-- Email: **prayogaananda2002@example.com**
-
----
-
-## ✨ Fun Zone  
-> “Code is like humor. When you have to explain it, it’s bad.”  
+- Email: **prayogaananda2002@gmail.com**
