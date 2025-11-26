@@ -47,11 +47,6 @@
 
 ---
 
-## 📌 Featured Projects  
-🚧 *Coming soon…*  
-
----
-
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Areyaaa&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Areyaaa&layout=compact&theme=tokyonight)
@@ -59,5 +54,4 @@
 ---
 
 ## 📫 Contact Me  
-- GitHub: **https://github.com/Areyaaa**  
 - Email: **prayogaananda2002@gmail.com**
